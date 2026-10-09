@@ -1,0 +1,20 @@
+{
+  "name": "tldraw-library",
+  "version": "0.1.0",
+  "description": "Ferroprint diagram symbols as paste-ready tldraw snippets (native clipboard content)",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "capture": "node scripts/capture-blobs.mjs",
+    "readmes": "node scripts/emit-readmes.mjs",
+    "all": "npm run build && npm run capture && npm run readmes"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "esbuild": "^0.27.2",
+    "lz-string": "^1.5.0"
+  }
+}
