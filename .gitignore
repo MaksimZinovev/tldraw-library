@@ -3,3 +3,4 @@ staging/
 .DS_Store
 out/
 .pi/
+examples/
