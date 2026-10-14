@@ -1,13 +1,11 @@
-# P01 — Document-script library: alias-paste + in-canvas palette
+# P02 — Document-script library: alias-paste + in-canvas palette
 
 > Source: options post + "Option E deep dive" sideshow post. User comment: *"I like it. Create
-> separate branch, Add in root folder plans/P01-document-script-library.md; include this
-> description from user perspective and the task description to implement it."*
->
-> ⚠ Note: two user comments both requested "P01". Kept literal per instruction; if a single
-> `plans/` queue is wanted at merge time, rename this file to `P02-document-script-library.md`.
+> separate branch, Add in root folder plans/P02-document-script-library.md; include this
+> description from user perspective and the task description to implement it."* (Originally
+> requested as P01; renumbered to P02 per user correction — P01 is the local browser picker page.)
 
-Status: plan · Branch: `p01-document-script-library` · Effort: ~1 day · Priority: E-rank (the "real fix")
+Status: plan · Branch: `p02-document-script-library` · Effort: ~1 day · Priority: P02 (the "real fix")
 
 ## Why
 
