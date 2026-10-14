@@ -10,6 +10,24 @@ clipboard content. Works on [tldraw.com](https://tldraw.com) and in tldraw Deskt
 2. Expand an element's **Copy/paste snippet** block and copy the ```html fenced content.
 3. Paste into a tldraw canvas. The image (and its default label, if it has one) lands as real tldraw shapes, ready to move, resize and style.
 
+Faster: use the library board, below — no code blocks to copy.
+
+## Usage — library board
+
+A ready-made tldraw document with **all 69 symbols laid out as a labelled catalog**:
+[library-board/library-board.tldraw](./library-board/library-board.tldraw).
+Five labelled groups (Plan, Furniture, System, Flow, Interface); each symbol sits in a grid cell with its small `category/id` name printed under it.
+
+How to get a symbol:
+
+1. Open `library-board/library-board.tldraw` in tldraw Desktop (double-click the file, or **Open** it from tldraw offline). Leave it in its own window.
+2. Find the symbol you want in the labelled grid.
+3. Click it once — its whole group selects (image + its default label, if any).
+4. `Ctrl/Cmd C`, switch to your drawing's window, `Ctrl/Cmd V`.
+5. The symbol lands as real shapes. The label text is editable like any tldraw shape.
+
+Keep the board open next to your drawing and copy as you go. You cannot break the catalog — work only happens in your own board; if you change the catalog itself, save your copy under a new name.
+
 ## Categories
 
 | Category | Elements | Symbol ids |
